@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Yahai, from Nigeria. I’m currently learning front-end web development
+I'm Yahai, from Abuja, Nigeria, becoming a Cloud Native Application Architect
 
 <!--
 **yahaiii/Yahaiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
