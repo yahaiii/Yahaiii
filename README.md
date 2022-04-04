@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Yahai, from Abuja, Nigeria, becoming a Cloud Native Application Architect
+I'm Yahai, from Abuja, Nigeria, becoming a Cloud Developer
 
 <!--
 **yahaiii/Yahaiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
