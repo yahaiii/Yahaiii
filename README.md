@@ -2,7 +2,7 @@
 
 My name is Yahaiii, I am a newbie developer and I am currently on the ALX Software Engineering programme working my way to become a full stack software engineer. I am excited about my journey and learning new things every day.
 
-I have been practicing and experimenting with different languages such as C, TypeScript, Python and JavaScript. I am currently focused on mastering the backend development with Node.js, Express and Postgres.
+I have been practicing and experimenting with different languages such as C, Python and JavaScript. I am currently focused on mastering backend development with Node.js, Express and Postgres.
 
 You can find my recent projects here on my profile, such as:
 - A simple Image Processing API built with Sharp, an image processing module, and node.js
