@@ -4,8 +4,7 @@ My name is Yahaiii, I am a newbie developer and I am currently on the ALX Softwa
 
 You can find my recent projects here on my profile, such as:
 - simple Image Processing API built with Sharp, an image processing module, and node.js
-- fully functional store built with Angular
-- personal portfolio website.
+- fully functional frontend storefront built with Angular
 
 I am open to feedback and suggestions, so please feel free to reach out to me with any thoughts or ideas you may have. 
 
