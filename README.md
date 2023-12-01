@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Yahaiii, an aspiring full-stack software engineer with a passion for learning and creating. I recently completed the ALX Intro to Software Engineering Program and was thrilled to receive a nomination for Chief Encouragement Officer (CEO) of the cohort -- the expert motivator who can turn "I can't" into "I can". This recognition is a testament to the incredible support of the ALX community, my mentors, my fellow learners, and is a testament to the opportunities and growth that the ALX Intro to Software Engineering Program offers. #ALXSE #SoftwareEngineering #DoingHardThings
+My name is Yahai. I recently completed the ALX Intro to Software Engineering Program and was thrilled to receive a nomination for Chief Encouragement Officer (CEO) of the cohort -- the expert motivator who can turn "I can't" into "I can". This recognition is a testament to the incredible support of the ALX community, my mentors, my fellow learners, and is a testament to the opportunities and growth that the ALX Intro to Software Engineering Program offers. #ALXSE #SoftwareEngineering #DoingHardThings
 
 I'm currently working on honing my skills and building a portfolio of projects, including:
 
